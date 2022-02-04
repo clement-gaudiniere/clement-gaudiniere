@@ -25,12 +25,12 @@
 
 ## Public places
 
-- Page officiel [GitHub](https://github.com/clement-gaudiniere)
-- Page de rédaction [Dev community](https://dev.to/clementgaudiniere)
-- Page de création [Codepen](https://codepen.io/clement-gaudiniere)
+- Official page [GitHub](https://github.com/clement-gaudiniere)
+- Writing page [Dev community](https://dev.to/clementgaudiniere)
+- Creation page [Codepen](https://codepen.io/clement-gaudiniere)
 - Page [Stackoverflow](https://stackoverflow.com/users/16318368/cl%c3%a9ment-gaudini%c3%a8re)
 - Page [Google Dev](http://g.dev/clementgaudiniere)
-- Page de [ventes NFT](https://rarible.com/clementgaudiniere/owned)
+- Sales page of [NFT](https://rarible.com/clementgaudiniere/owned)
 - Page [NPM JS](https://www.npmjs.com/~clemlya)
 
 ## Projects
@@ -48,6 +48,7 @@
 
 ## Formations
 
+(In French)
 - On OpenClassroom :
     - Comprendre le Web
     - Apprenez à créer votre site web avec HTML5 et CSS3
