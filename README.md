@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @clement-gaudiniere
 - 👀 I’m interested in  aeronautics, aeromodelling, web development and mobile development.
 - 🌱 I am curious and constantly learning. To stop learning is to grow old.
-<!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 You can contact me via this email address : dev.clementgaudiniere@gmail.com
 
 
@@ -61,12 +60,6 @@
 - On Udemy :
     - Android & Kotlin | Formation complète
 
-<!---
-## Parcours
-
-1. Collège Jean Rostand, St Jamme
-2. Lycée Montesqieu, Le Mans 
---->
 
 ## Support me
 
